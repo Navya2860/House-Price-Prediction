@@ -1,4 +1,4 @@
-# 0. Introduction
+#  Introduction
 This project focuses on building a web application to predict house prices for house buyers and house sellers.
 
 The value of a house is more than just location and square footage. Houses have several features that make up it's value. We are going to take advantage of all the features to make accurate predictions about the price of any house.
